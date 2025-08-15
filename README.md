@@ -52,7 +52,7 @@ To extend this project:
 - **Customer Segmentation:** Use clustering (e.g., K-Means) to group customers by behavior for targeted retention strategies.
 - **Retention Strategy Simulation:** Model impact of different intervention strategies to measure potential churn reduction.
 
-## 🛠 Tech Stack
+## Tech Stack
 - **Languages:** Python 3.x  
 - **Libraries:** pandas, numpy, matplotlib, seaborn, scikit-learn  
 - **Tools:** Jupyter Notebook, Excel/CSV  
